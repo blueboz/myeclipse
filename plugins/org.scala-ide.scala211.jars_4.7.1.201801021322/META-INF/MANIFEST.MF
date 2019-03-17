@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.scala-ide.scala211.jars;singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: wpopielarski
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-Vendor: scala-ide.org
+Eclipse-ExtensibleAPI: true
+Bundle-Name: Scala 2.11 jars
+Bundle-Version: 4.7.1.201801021322
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_101
+
+Name: target/jars/scala-compiler-src.jar
+SHA-256-Digest: RJ3jPwtcsy4hbcQzMi2cjQ7fAmic7X2BpSUdMnvx5VY=
+
+Name: target/jars/scala-library.jar
+SHA-256-Digest: 8roVUKOTBOXQbKrd+iJs3wpMvM7hiYKPqMHd8REMSHI=
+
+Name: target/jars/scala-reflect-src.jar
+SHA-256-Digest: 3SchTtG5lIlFiLDIdjruJ++iJhFakL+cPODuvjO1Al4=
+
+Name: target/jars/scala-library-src.jar
+SHA-256-Digest: iH0tHYhjCtLDuWUujSULgA6M49KFe8YNoCLhUVgMXDc=
+
+Name: META-INF/maven/org.scala-ide/org.scala-ide.scala211.jars/pom.pro
+ perties
+SHA-256-Digest: PFXIiz1q/RdGjTXGiFcNJzNZglPlv6Q0GL1GwvdCcEs=
+
+Name: target/jars/scala-compiler.jar
+SHA-256-Digest: X5Ke1XxRXvlUVJc3TuyI/9EpuPBAed7bfjIQcQQyXN0=
+
+Name: target/jars/scala-reflect.jar
+SHA-256-Digest: c67xpsyr06PBXMFT7IRuEtDwRVh6Kh2IzBtJKT9HyyA=
+
+Name: META-INF/maven/org.scala-ide/org.scala-ide.scala211.jars/pom.xml
+SHA-256-Digest: gIOW720oJUFbZQdUJ8zHrDMduBX+ZIt0rtx1+QypjDU=
+

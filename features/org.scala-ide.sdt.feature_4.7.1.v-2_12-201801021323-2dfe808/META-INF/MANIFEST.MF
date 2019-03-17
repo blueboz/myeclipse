@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: wpopielarski
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_101
+
+Name: p2.inf
+SHA-256-Digest: nw6Lmf3epaDI2CYIkzYXPHhTgSZVhPiVaHQkO7QDAlk=
+
+Name: META-INF/maven/org.scala-ide/org.scala-ide.sdt.feature/pom.xml
+SHA-256-Digest: 9ato33xfc+tKqFtk9BwBgRMBgF3KRtcfwyqoRH71yF4=
+
+Name: feature.xml
+SHA-256-Digest: aW1y0sS0l556AoVzk5A0BNAA4KoHdxDmOnWxJAQV/OI=
+
+Name: META-INF/maven/org.scala-ide/org.scala-ide.sdt.feature/pom.prope
+ rties
+SHA-256-Digest: Juq3FlhinHRgQ0aHgtfbAuUfjBMbCoMKH5AqaNuSILM=
+

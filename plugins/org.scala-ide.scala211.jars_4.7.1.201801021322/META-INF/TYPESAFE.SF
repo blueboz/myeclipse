@@ -1,0 +1,31 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: Wl5lIsfbUpCfC7smk5fgOEPLTHy3k
+ 2hOcjavCQKZnig=
+SHA-256-Digest-Manifest: lUktwLaqxPDtw5QmB3yzlzatn6HoFI74lyMV0GB0mPw=
+Created-By: 1.8.0_101 (Oracle Corporation)
+
+Name: target/jars/scala-compiler-src.jar
+SHA-256-Digest: dphp49pmqUgT0u1MmpaOSy7Jku5aSgg5Nq65cF+VhG0=
+
+Name: target/jars/scala-library.jar
+SHA-256-Digest: MH3YMjqrpvuVrCYG1Odfyd7Pvlg9px4SwJfL3xTskxw=
+
+Name: target/jars/scala-reflect-src.jar
+SHA-256-Digest: OdS9f2sbRvtBUqE7nNd991BqdcV/sbhsHzGVh6H7nTc=
+
+Name: target/jars/scala-library-src.jar
+SHA-256-Digest: O7NRb4RoS2uxAJEXa9M4vjbT78E2Us/NRkAo0LG2P7g=
+
+Name: META-INF/maven/org.scala-ide/org.scala-ide.scala211.jars/pom.pro
+ perties
+SHA-256-Digest: fXlszMWb3zIjLibnVXq6VO5RAYF6fOiHBBEjNafVwvk=
+
+Name: target/jars/scala-compiler.jar
+SHA-256-Digest: 6rtSbeTipsercYe4JwMM7YSinJi+5VR0Wm4crBmXp6U=
+
+Name: target/jars/scala-reflect.jar
+SHA-256-Digest: rQ/8MQLvec+TWZTJW+9m8/QICOOZ+EjP3wB7eTDD47w=
+
+Name: META-INF/maven/org.scala-ide/org.scala-ide.scala211.jars/pom.xml
+SHA-256-Digest: LfYgMH7gMD1Fj0BF0dLqw/l0DhJAQ5xZQe9/Lg5+Cl0=
+
