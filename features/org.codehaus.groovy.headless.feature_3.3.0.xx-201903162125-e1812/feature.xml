@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feature id="org.codehaus.groovy.headless.feature"
+      label="%featureName"
+      version="3.3.0.xx-201903162125-e1812"
+      provider-name="%providerName">
+
+   <description url="%descriptionURL">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <includes id="org.codehaus.groovy.jdt.patch" version="3.3.0.xx-201903162125-e1812"/>
+
+   <plugin
+         id="org.codehaus.groovy.eclipse.ant"
+         download-size="11"
+         install-size="14"
+         version="3.3.0.xx-201903162125-e1812"
+         unpack="false"
+   />
+
+   <plugin
+         id="org.codehaus.groovy.eclipse.compilerResolver"
+         download-size="16"
+         install-size="26"
+         version="3.3.0.xx-201903162125-e1812"
+         unpack="false"
+   />
+
+   <plugin
+         id="org.codehaus.groovy.eclipse.core"
+         download-size="85"
+         install-size="168"
+         version="3.3.0.xx-201903162125-e1812"
+         unpack="false"
+   />
+
+   <plugin
+         id="org.eclipse.jdt.groovy.core"
+         download-size="440"
+         install-size="952"
+         version="3.3.0.xx-201903162125-e1812"
+         unpack="false"
+   />
+
+</feature>

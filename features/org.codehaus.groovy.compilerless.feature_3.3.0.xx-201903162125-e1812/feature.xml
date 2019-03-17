@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feature id="org.codehaus.groovy.compilerless.feature"
+      label="%featureName"
+      version="3.3.0.xx-201903162125-e1812"
+      provider-name="%providerName">
+
+   <description url="%descriptionURL">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <includes id="org.codehaus.groovy.headless.feature" version="3.3.0.xx-201903162125-e1812"/>
+
+   <plugin
+         id="org.codehaus.groovy.eclipse.astviews"
+         download-size="79"
+         install-size="164"
+         version="3.3.0.xx-201903162125-e1812"
+         unpack="false"
+   />
+
+   <plugin
+         id="org.codehaus.groovy.eclipse.codeassist.completion"
+         download-size="274"
+         install-size="602"
+         version="3.3.0.xx-201903162125-e1812"
+         unpack="false"
+   />
+
+   <plugin
+         id="org.codehaus.groovy.eclipse.codebrowsing"
+         download-size="87"
+         install-size="203"
+         version="3.3.0.xx-201903162125-e1812"
+         unpack="false"
+   />
+
+   <plugin
+         id="org.codehaus.groovy.eclipse.dsl"
+         download-size="395"
+         install-size="850"
+         version="3.3.0.xx-201903162125-e1812"
+         unpack="false"
+   />
+
+   <plugin
+         id="org.codehaus.groovy.eclipse.quickfix"
+         download-size="110"
+         install-size="230"
+         version="3.3.0.xx-201903162125-e1812"
+         unpack="false"
+   />
+
+   <plugin
+         id="org.codehaus.groovy.eclipse.refactoring"
+         download-size="271"
+         install-size="599"
+         version="3.3.0.xx-201903162125-e1812"
+         unpack="false"
+   />
+
+   <plugin
+         id="org.codehaus.groovy.eclipse.ui"
+         download-size="549"
+         install-size="1136"
+         version="3.3.0.xx-201903162125-e1812"
+         unpack="false"
+   />
+
+</feature>
